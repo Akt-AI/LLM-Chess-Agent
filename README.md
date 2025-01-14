@@ -74,4 +74,7 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 - [OpenCV](https://opencv.org/): For real-time visualization and video processing.
 - [svglib](https://pypi.org/project/svglib/): For SVG to image conversion.
 
+## Links
+* [Autogen](https://microsoft.github.io/autogen/dev/user-guide/core-user-guide/cookbook/local-llms-ollama-litellm.html)
+
 
